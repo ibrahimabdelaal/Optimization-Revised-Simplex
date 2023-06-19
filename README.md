@@ -41,7 +41,9 @@ You can find example cases that demonstrate the usage of the Revised Simplex Met
 As expected, revised simplex outperform the original simplex method used in linpro Matlab.
 Comaprison is also provided in test_simplex.m
 
+
 ![image](https://github.com/ibrahimabdelaal/Optimization/assets/49596777/89ba55fe-0ca1-4bf6-89aa-0fd15764314f)
+
 
 ![image](https://github.com/ibrahimabdelaal/Optimization/assets/49596777/e9380b2a-1f3d-4950-8046-58e1b2211aaf)
 
